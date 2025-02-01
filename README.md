@@ -37,7 +37,7 @@ User Karen creates a ticket
 <p>
   Ticket Assignment
   <img src="https://github.com/user-attachments/assets/73e4226d-111f-4078-8a83-d4305b914841" height="75%" width="100%"/>
-  <img src="  https://github.com/user-attachments/assets/439e2f7e-7468-4fff-80b4-8d73b1d8c45a" height="75%" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/439e2f7e-7468-4fff-80b4-8d73b1d8c45a" height="75%" width="100%"/>
 </p>
 <p>
 Support agent John Doe is logs in to their portal to see the active tickets
